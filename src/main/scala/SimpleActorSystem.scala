@@ -6,7 +6,7 @@ import m._
 
   class SimpleActor extends Actor {
 
-    var count=10
+    var count=5
 
     override def receive: Receive = {
 
